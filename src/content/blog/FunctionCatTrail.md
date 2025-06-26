@@ -1,6 +1,15 @@
-| author | pubDatetime | description |
-| nth | 2025-06-26 12:23:00 UTC | test blog |
+---
+author: nth
+pubDatetime: 2025-06-26T00:22:00Z
+title: FunctionCatTrail
+featured: true
+draft: false
+tags:
+  - docs
+description:
+  Try function cat
+---
 
-# Hello World
+## Hello World
 
 o7
